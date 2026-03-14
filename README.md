@@ -3,6 +3,12 @@
 `Game Hub` is a custom `5x4` WigiDash widget for browsing and launching PC games from one touch-friendly dashboard.
 
 Current release: `v1.0.0`
+WigiDash Manager version: `v1.2.9519.34181`
+
+
+
+
+
 
 ## Features
 
